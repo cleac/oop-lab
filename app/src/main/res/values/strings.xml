@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Watcher for GitHub</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_repository">Repository Details</string>
+    <string name="title_activity_commit_details">Commit Details</string>
+    <string name="title_activity_user_details">UserDetails</string>
+    <string name="sync_account_type">watcherforgithub.cleac.com</string>
+    <string name="content_authority">com.cleac.watcherforgithub</string>
+</resources>
